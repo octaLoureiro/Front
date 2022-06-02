@@ -1,0 +1,30 @@
+h2{
+    color: #005677;
+    background-color: #C4C4C4;
+}
+
+.logo{
+background-position: center top;
+}
+
+h1{
+    color:#005677 ;
+    background-color:#C4C4C4 ;
+}
+
+.negrita{
+font-weight: bold;
+}
+
+.margen{
+    margin-left: 2cm;
+}
+
+
+footer{
+    background-color: #005677;
+    color: #C4C4C4;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+}
